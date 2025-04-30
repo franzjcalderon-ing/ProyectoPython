@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Título
-st.title("Graficador de Seno y Coseno (con radianes)")
+st.title("Graficador de función Sen y Cos")
 
 # Sidebar con entradas de parámetros
 st.sidebar.header("Parámetros de la función")
