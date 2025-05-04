@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide", page_title="Graficador de Seno y Coseno")
 
-st.title("🧮 Graficador de Seno y Coseno con Radianes")
+st.title("🧮 Graficador de funcion Sen y Cos")
 
 st.sidebar.header("Parámetros de la función")
 A = st.sidebar.number_input("A (Amplitud)", value=1.0)
