@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.set_page_config(layout="wide", page_title="Graficador de Seno y Coseno")
+st.set_page_config(layout="wide", page_title="Graficador de Función Seno y Coseno")
 
 st.title("🧮 Graficador de funcion Sen y Cos")
 
